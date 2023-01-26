@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **C# & C++**
 
-- 📫 How to reach me **ngonngocphat@gmail.com**
-
 - ⚡ Fun fact **I think we can work together**
 
 <h3 align="left">Connect with me:</h3>
