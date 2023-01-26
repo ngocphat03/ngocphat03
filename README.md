@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatbidaulung&label=Profile%20views&color=0e75b6&style=flat" alt="phatbidaulung" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phatbidaulung" alt="phatbidaulung" /></a> </p>
-
 - 🌱 I’m currently learning **Unity and Unreal**
 
 - 👨‍💻 All of my projects are available at [https://github.com/phatbidaulung](https://github.com/phatbidaulung)
@@ -16,6 +14,9 @@
 - 💬 Ask me about **C# & C++**
 
 - ⚡ Fun fact **I think we can work together**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phatbidaulung" alt="phatbidaulung" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
