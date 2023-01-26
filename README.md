@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://fb.com/ngonngocphat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngonngocphat" height="30" width="40" /></a>
 <a href="https://instagram.com/lungbidau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lungbidau" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@lungbidau" target="blank"><img align="center" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" alt="lungbidau" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
