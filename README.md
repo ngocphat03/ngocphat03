@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/phatbidaulung](https://github.com/phatbidaulung)
 
-- 📝 I regularly write articles on [https://.axit.edu.vn/](https://.axit.edu.vn/)
+- 📝 I regularly write articles on [https://axit.edu.vn/](https://axit.edu.vn/)
 
-- 💬 Ask me about **C# & C++**
+- 💬 Ask me about **C#**
 
 - ⚡ Fun fact **I think we can work together**
 
