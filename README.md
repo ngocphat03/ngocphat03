@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatbidaulung&label=Profile%20views&color=0e75b6&style=flat" alt="phatbidaulung" /> </p>
 
-- 🌱 I’m currently learning **Unity and Unreal**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/phatbidaulung](https://github.com/phatbidaulung)
 
-- 📝 I regularly write articles on [http://www.axit.edu.vn/](http://www.axit.edu.vn/)
+- 📝 I regularly write articles on [https://.axit.edu.vn/](https://.axit.edu.vn/)
 
 - 💬 Ask me about **C# & C++**
 
