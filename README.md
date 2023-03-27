@@ -3,11 +3,11 @@
 <h3 align="center">A game developer from Vietnam</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phatbidaulung&label=Profile%20views&color=0e75b6&style=flat" alt="phatbidaulung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocphat03&label=Profile%20views&color=0e75b6&style=flat" alt="ngocphat03" /> </p>
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/phatbidaulung](https://github.com/phatbidaulung)
+- 👨‍💻 All of my projects are available at [https://github.com/ngocphat03](https://github.com/ngocphat03)
 
 - 📝 I regularly write articles on [https://axit.edu.vn/](https://axit.edu.vn/)
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I think we can work together**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phatbidaulung" alt="phatbidaulung" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngocphat03" alt="ngocphat03" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatbidaulung&show_icons=true&locale=en&layout=compact" alt="phatbidaulung" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocphat03&show_icons=true&locale=en&layout=compact" alt="ngocphat03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phatbidaulung&show_icons=true&locale=en" alt="phatbidaulung" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngocphat03&show_icons=true&locale=en" alt="ngocphat03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phatbidaulung&" alt="phatbidaulung" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngocphat03&" alt="ngocphat03" /></p>
