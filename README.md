@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ngocphat03](https://github.com/ngocphat03)
 
-- 📝 I regularly write articles on [https://axit.edu.vn/](https://axit.edu.vn/)
-
 - 💬 Ask me about **C#**
 
 - ⚡ Fun fact **I think we can work together**
